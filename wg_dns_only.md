@@ -5,7 +5,7 @@ The wireguard script from https://github.com/Nyr/wireguard-install routes the wh
 ```
 [Interface]
 Address = 10.7.0.5/24
-DNS = 192.168.178.22  <- this is the PiHole
+DNS = 192.168.178.22  # <- this is the PiHole
 PrivateKey = fiuhrefiuwfhl...
 
 [Peer]
